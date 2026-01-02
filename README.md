@@ -19,8 +19,9 @@ This project is an automated bridge system that raises and lowers based on dista
 - Event-driven callbacks are used instead of polling to improve efficiency.
 - LEDs indicate movement and idle states.
 
---My ideas--
+--My Contribution--
 This project was completed as a team project. My contributions focused on ultrasonic sensor integration, event-driven control logic, motor control using PWM, and system testing.
+My part was the code, I worked on the logic of the code making the motors move the bridge up and down based on distance of the object to the ultrasonic sensor. 
 
 --Future Improvements--
 - Add safety limit switches
